@@ -63,14 +63,14 @@ assign Borrow = ((p&B)|(p&C)|(B&C));
 endmodule
 ```
 ## Output:
-## Half Adder
+## Half Subractor
 ## Truthtable
 ![op](truth_table_full.png)
 ##  RTL realization
 ![op](rtl_half.png)
 ## Timing diagram 
 ![op](td_half.png)
-## Full Adder
+## Full Subractor
 ## Truthtable
 ![op](truth_table_full.png)
 ##  RTL realization
